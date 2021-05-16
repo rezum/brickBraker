@@ -1,8 +1,3 @@
-# csc413-SecondGame
-
-## Student Name  : Rebecca Zumaeta
-## Student ID    :917676401
-
 
 ## src folder is to be used to store source code only.
 
