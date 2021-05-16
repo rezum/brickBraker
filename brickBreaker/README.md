@@ -1,6 +1,3 @@
+by Rebecca Zumaeta 
 
-## src folder is to be used to store source code only.
-
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
+The IDE used for this project was InterliJ. The version of java used was 12.0.2. My GameWorld class is where the main method which is were the code is ran. GameWorld is located in project csc413-secondgame-rezum/src/secondgame/GameWorld. The the left and right keys are the controls for the player. To win the game you must bounce the dango ball  against all the bricks to delete them to get to the Dango trio in the middle. The evil blocks lower your score. Once one player looses all the lives the game will print an 'game over' statement. 
